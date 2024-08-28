@@ -1,7 +1,7 @@
 ## Joseph W. Schafer
 
 - I'm currently working at the National Center for Biotechnology and Information on better understanding fold-switching proteins
-- link to publication ➡ [google scholar](https://scholar.google.com/citations?user=ijZ4diQAAAAJ&hl=en&oi=ao)
+- link to publications ➡ [google scholar](https://scholar.google.com/citations?user=ijZ4diQAAAAJ&hl=en&oi=ao)
 - I have primarily written python for 6+ years
 - Currently learning Go
 
