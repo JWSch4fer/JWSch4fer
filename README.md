@@ -1,4 +1,9 @@
-## Hi there 👋
+## Joseph W. Schafer
+
+- I'm currently working at the National Center for Biotechnology and Information on better understanding fold-switching proteins
+- link to publication ➡ [google scholar](https://scholar.google.com/citations?user=ijZ4diQAAAAJ&hl=en&oi=ao)
+- I have primarily write python for 6+ years
+- Currently learning Go
 
 <!--
 **JWSch4fer/JWSch4fer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
