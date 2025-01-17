@@ -2,8 +2,8 @@
 
 - I'm currently working at the National Center for Biotechnology and Information on better understanding fold-switching proteins
 - link to publications ➡ [google scholar](https://scholar.google.com/citations?user=ijZ4diQAAAAJ&hl=en&oi=ao)
-- I have primarily written python for 6+ years
-- Currently learning Go
+- I have primarily written python for 7+ years
+- 
 
 <!--
 **JWSch4fer/JWSch4fer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
